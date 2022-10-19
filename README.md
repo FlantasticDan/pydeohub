@@ -1,4 +1,6 @@
 # pydeohub
+[![Documentation Status](https://readthedocs.org/projects/pydeohub/badge/?version=latest)](https://pydeohub.readthedocs.io/en/latest/?badge=latest) [![PyPI version](https://badge.fury.io/py/pydeohub.svg)](https://badge.fury.io/py/pydeohub)
+
 
 ![pydeohub](https://user-images.githubusercontent.com/37907774/195731748-53e8b78e-fc42-4e33-93c9-64b7ffa5bb33.png)
 
