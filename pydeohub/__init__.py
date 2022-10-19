@@ -154,7 +154,7 @@ class Videohub:
         Parameters
         ----------
         routes : List[Tuple[int, int]]
-            A list of (destination, source) vido output/input identifiers.
+            A list of (destination, source) video output/input identifiers.
         """
         command = ''
         for route in routes:
